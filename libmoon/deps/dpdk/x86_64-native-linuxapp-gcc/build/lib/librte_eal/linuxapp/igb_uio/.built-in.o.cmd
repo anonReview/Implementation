@@ -1,0 +1,1 @@
+cmd_/home/dominik/MoonGen/libmoon/deps/dpdk/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o :=  rm -f /home/dominik/MoonGen/libmoon/deps/dpdk/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o; ar rcSTPD /home/dominik/MoonGen/libmoon/deps/dpdk/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o
